@@ -2,7 +2,7 @@
 //111111
 int main(int argc,  char **argv)
 {int i;
-for(i=0;i<20;i++)
+for(i=0;i<50;i++)
 	printf("hello world\n");
 	return 0;
 }
